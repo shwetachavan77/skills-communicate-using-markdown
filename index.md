@@ -8,3 +8,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Orange kitty](https://i.redd.it/zeh71flzvzz61.jpg)
+
+```
+name = 'Shweta'
+print("My name is ", name)
+```
