@@ -13,3 +13,8 @@
 name = 'Shweta'
 print("My name is ", name)
 ```
+
+Shweta's task list:
+- [x] Breakfast
+- [ ] Lunch Prep  
+- [x] Shower
