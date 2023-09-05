@@ -6,3 +6,5 @@
 ##### This is an `<h5>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+![Image of Orange kitty](https://i.redd.it/zeh71flzvzz61.jpg)
